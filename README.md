@@ -4,7 +4,7 @@
 
 A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask**. Easily convert YouTube videos to high-quality MP3 files with one click.
 
-## 🚀 Features
+## Features
 
 - Convert YouTube videos to MP3 format quickly.
 
@@ -16,7 +16,7 @@ A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask
 
 
 
-## ⚡ How It Works
+## How It Works
 
 - Paste the YouTube video URL into the app.
 
@@ -26,7 +26,7 @@ A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask
 
 
 
-## 📦 Requirements
+## Requirements
 
 > **OPTIONAL**
 > There is a Dockerfile included in the root of the project folder if you would like to containerize this app, see install instructions below
@@ -46,7 +46,7 @@ A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask
 
 - To properly install all dependencies, use the requirements.txt file in the root of the project folder by running the command `pip install -r requirements.txt` while in the root of the project folder
 
-## 🛠 Installation
+## Installation
 
 1. Clone this repository from GitHub.
 
@@ -73,7 +73,7 @@ A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask
 
 
 
-## 💻 Usage
+## Usage
 
 1. Launch the application.
 
@@ -87,15 +87,15 @@ A simple and fast YouTube to MP3 converter app built with **yt-dlp** and **Flask
 
 
 
-## 🧑‍💻 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork this repository and submit a pull request with your changes.
 
-## 📄 License
+## License
 
 TBD
 
-## 📝 Acknowledgements
+## Acknowledgements
 
 **yt-dlp** for video downloading and conversion and **Flask** for the web framework.
 
